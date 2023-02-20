@@ -1,4 +1,4 @@
-# Machine Learning Studies According to University Projects
+# Machine Learning Projects
 
 --> Land Use Land Cover Classification using Machine Learning Approaches
 
